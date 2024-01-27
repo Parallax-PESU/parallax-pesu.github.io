@@ -1,6 +1,6 @@
 # Parallax PESU
 
-![Parallax](public/parallax-logo-with-background.png)
+![Parallax](public/parallax-logo.png)
 
 Licensed under the MIT License, Copyright © 2023
 
